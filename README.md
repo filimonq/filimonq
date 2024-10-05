@@ -1,9 +1,10 @@
-
 <h1 align="center">Hi 👋, I'm Ildar</h1>
 <h3 align="center">NSU CS&SD student</h3>
-<img align="right" alt="Coding" width="700" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
 
-<h3 align="left">Connect with me:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=filimonq&label=Profile%20views&color=0e75b6&style=flat" alt="filimonq" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filimonq" alt="filimonq" /></a> </p>
+
 <p align="left">
 </p>
 
