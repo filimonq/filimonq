@@ -10,4 +10,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filimonq&" alt="filimonq" /></p>
 
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=melarozz&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
+<p align="center" > <img src="https://komarev.com/ghpvc/?username=filimonq&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
