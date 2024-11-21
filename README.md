@@ -6,7 +6,3 @@
 
 
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=filimonq&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonq&show_icons=true&locale=en&layout=compact" alt="filimonq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filimonq&show_icons=true&locale=en" alt="filimonq" /></p>
